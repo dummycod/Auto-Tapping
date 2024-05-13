@@ -1,0 +1,2 @@
+# Auto-Tapping
+About a year ago, I was really into Subway Surfers and had loads of coins, enough to open around 300 crates. I'd unlocked all the characters except Yutani, but getting him took way too much time and effort. I didn't even know there were auto-clickers on the Play Store (honestly, I never bothered to look). So, I ended up wasting even more time and wrote a simple Python script to do the job for me.
